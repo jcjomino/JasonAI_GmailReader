@@ -5,7 +5,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 
 load_dotenv()
-openai.api_key = "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"
+openai.api_key = "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"
 
 app = FastAPI()
 
